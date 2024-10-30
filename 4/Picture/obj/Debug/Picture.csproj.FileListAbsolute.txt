@@ -1,0 +1,10 @@
+E:\Практика программирования\Модуль-5\4\Picture\bin\Debug\Picture.exe.config
+E:\Практика программирования\Модуль-5\4\Picture\bin\Debug\Picture.exe
+E:\Практика программирования\Модуль-5\4\Picture\bin\Debug\Picture.pdb
+E:\Практика программирования\Модуль-5\4\Picture\obj\Debug\Picture.csproj.AssemblyReference.cache
+E:\Практика программирования\Модуль-5\4\Picture\obj\Debug\Picture.Form1.resources
+E:\Практика программирования\Модуль-5\4\Picture\obj\Debug\Picture.Properties.Resources.resources
+E:\Практика программирования\Модуль-5\4\Picture\obj\Debug\Picture.csproj.GenerateResource.cache
+E:\Практика программирования\Модуль-5\4\Picture\obj\Debug\Picture.csproj.CoreCompileInputs.cache
+E:\Практика программирования\Модуль-5\4\Picture\obj\Debug\Picture.exe
+E:\Практика программирования\Модуль-5\4\Picture\obj\Debug\Picture.pdb

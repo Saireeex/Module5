@@ -1,0 +1,10 @@
+E:\Практика программирования\Модуль-5\3\Task\obj\Debug\Task.csproj.AssemblyReference.cache
+E:\Практика программирования\Модуль-5\3\Task\obj\Debug\Task.Form1.resources
+E:\Практика программирования\Модуль-5\3\Task\obj\Debug\Task.Properties.Resources.resources
+E:\Практика программирования\Модуль-5\3\Task\obj\Debug\Task.csproj.GenerateResource.cache
+E:\Практика программирования\Модуль-5\3\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+E:\Практика программирования\Модуль-5\3\Task\bin\Debug\Task.exe.config
+E:\Практика программирования\Модуль-5\3\Task\bin\Debug\Task.exe
+E:\Практика программирования\Модуль-5\3\Task\bin\Debug\Task.pdb
+E:\Практика программирования\Модуль-5\3\Task\obj\Debug\Task.exe
+E:\Практика программирования\Модуль-5\3\Task\obj\Debug\Task.pdb

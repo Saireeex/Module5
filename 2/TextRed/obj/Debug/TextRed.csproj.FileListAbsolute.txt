@@ -1,0 +1,10 @@
+E:\Практика программирования\Модуль-5\2\TextRed\bin\Debug\TextRed.exe.config
+E:\Практика программирования\Модуль-5\2\TextRed\bin\Debug\TextRed.exe
+E:\Практика программирования\Модуль-5\2\TextRed\bin\Debug\TextRed.pdb
+E:\Практика программирования\Модуль-5\2\TextRed\obj\Debug\TextRed.csproj.AssemblyReference.cache
+E:\Практика программирования\Модуль-5\2\TextRed\obj\Debug\TextRed.Form1.resources
+E:\Практика программирования\Модуль-5\2\TextRed\obj\Debug\TextRed.Properties.Resources.resources
+E:\Практика программирования\Модуль-5\2\TextRed\obj\Debug\TextRed.csproj.GenerateResource.cache
+E:\Практика программирования\Модуль-5\2\TextRed\obj\Debug\TextRed.csproj.CoreCompileInputs.cache
+E:\Практика программирования\Модуль-5\2\TextRed\obj\Debug\TextRed.exe
+E:\Практика программирования\Модуль-5\2\TextRed\obj\Debug\TextRed.pdb
